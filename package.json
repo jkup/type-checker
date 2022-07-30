@@ -1,0 +1,24 @@
+{
+  "name": "type-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkup/type-checker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkup/type-checker/issues"
+  },
+  "homepage": "https://github.com/jkup/type-checker#readme",
+  "dependencies": {
+    "acorn": "^8.8.0",
+    "acorn-walk": "^8.2.0"
+  }
+}
